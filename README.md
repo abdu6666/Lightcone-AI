@@ -236,7 +236,3 @@ The code in this repository is released under the [Apache License 2.0](LICENSE).
     url={https://github.com/tzafon/lightcone},
 }
 ```
-
-## Contact
-
-Questions or feedback? Reach out at **support@tzafon.ai** or open an issue.
